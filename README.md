@@ -1,2 +1,2 @@
 # OpenShiftTest
-<img src="image.jpg">
+<img src="Image.jpg">
